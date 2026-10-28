@@ -1,0 +1,513 @@
+{
+ "sources": [
+  "downloads/knee_multicoil_train:knee:5",
+  "downloads/brain_multicoil_train:brain:2"
+ ],
+ "seed": 0,
+ "volumes": {
+  "file1000059.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000089.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000109.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000117.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000154.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000300.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000340.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000383.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000408.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000495.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000501.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000535.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000566.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000584.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000658.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000682.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1000685.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000716.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000755.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000801.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000806.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000875.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000896.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1000963.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001003.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001051.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001200.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1001205.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1001266.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1001340.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001426.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1001491.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001520.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1001654.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001741.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001866.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001948.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1001982.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1002098.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1002107.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1002146.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1002169.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1002234.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1002239.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1002264.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1002269.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1002303.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file1002371.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1002495.h5": [
+   "knee",
+   "CORPDFS_FBK"
+  ],
+  "file1002511.h5": [
+   "knee",
+   "CORPD_FBK"
+  ],
+  "file_brain_AXFLAIR_201_6003008.h5": [
+   "brain",
+   "AXFLAIR"
+  ],
+  "file_brain_AXFLAIR_202_6000421.h5": [
+   "brain",
+   "AXFLAIR"
+  ],
+  "file_brain_AXFLAIR_202_6000531.h5": [
+   "brain",
+   "AXFLAIR"
+  ],
+  "file_brain_AXFLAIR_203_6000942.h5": [
+   "brain",
+   "AXFLAIR"
+  ],
+  "file_brain_AXT1POST_200_6002033.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_200_6002392.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_202_6000269.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_203_6000657.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_203_6000760.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_205_2050102.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_205_2050159.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_205_2050255.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_207_2070034.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_207_2070357.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_208_2080150.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_208_2080154.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1POST_208_2080576.h5": [
+   "brain",
+   "AXT1POST"
+  ],
+  "file_brain_AXT1PRE_200_6002128.h5": [
+   "brain",
+   "AXT1PRE"
+  ],
+  "file_brain_AXT1_201_6002779.h5": [
+   "brain",
+   "AXT1"
+  ],
+  "file_brain_AXT1_201_6002836.h5": [
+   "brain",
+   "AXT1"
+  ],
+  "file_brain_AXT1_202_2020509.h5": [
+   "brain",
+   "AXT1"
+  ],
+  "file_brain_AXT2_200_2000080.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_200_2000175.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_200_2000566.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_200_6001972.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_200_6002012.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_200_6002158.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_200_6002465.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_200_6002601.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_201_2010014.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_201_2010261.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_201_2010323.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_201_2010590.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_201_2010602.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_202_2020272.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_202_2020290.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_203_2030122.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_203_2030254.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_204_2040009.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_204_2040011.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_204_2040073.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_204_2040086.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_205_2050244.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_206_2060070.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_207_2070422.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_207_2070590.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_209_2090077.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_210_2100368.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_210_6001515.h5": [
+   "brain",
+   "AXT2"
+  ],
+  "file_brain_AXT2_210_6001546.h5": [
+   "brain",
+   "AXT2"
+  ]
+ },
+ "train": [
+  "file_brain_AXFLAIR_201_6003008.h5",
+  "file_brain_AXFLAIR_202_6000421.h5",
+  "file_brain_AXFLAIR_203_6000942.h5",
+  "file_brain_AXT1_201_6002836.h5",
+  "file_brain_AXT1_202_2020509.h5",
+  "file_brain_AXT1POST_200_6002033.h5",
+  "file_brain_AXT1POST_202_6000269.h5",
+  "file_brain_AXT1POST_203_6000760.h5",
+  "file_brain_AXT1POST_205_2050102.h5",
+  "file_brain_AXT1POST_205_2050159.h5",
+  "file_brain_AXT1POST_205_2050255.h5",
+  "file_brain_AXT1POST_207_2070357.h5",
+  "file_brain_AXT1POST_208_2080150.h5",
+  "file_brain_AXT1POST_208_2080154.h5",
+  "file_brain_AXT1PRE_200_6002128.h5",
+  "file_brain_AXT2_200_2000080.h5",
+  "file_brain_AXT2_200_2000175.h5",
+  "file_brain_AXT2_200_2000566.h5",
+  "file_brain_AXT2_200_6001972.h5",
+  "file_brain_AXT2_200_6002158.h5",
+  "file_brain_AXT2_201_2010014.h5",
+  "file_brain_AXT2_201_2010261.h5",
+  "file_brain_AXT2_201_2010602.h5",
+  "file_brain_AXT2_202_2020272.h5",
+  "file_brain_AXT2_202_2020290.h5",
+  "file_brain_AXT2_203_2030122.h5",
+  "file_brain_AXT2_203_2030254.h5",
+  "file_brain_AXT2_204_2040009.h5",
+  "file_brain_AXT2_204_2040011.h5",
+  "file_brain_AXT2_204_2040073.h5",
+  "file_brain_AXT2_204_2040086.h5",
+  "file_brain_AXT2_206_2060070.h5",
+  "file_brain_AXT2_207_2070422.h5",
+  "file_brain_AXT2_207_2070590.h5",
+  "file_brain_AXT2_210_2100368.h5",
+  "file1000059.h5",
+  "file1000154.h5",
+  "file1000340.h5",
+  "file1000408.h5",
+  "file1000501.h5",
+  "file1000535.h5",
+  "file1000566.h5",
+  "file1000658.h5",
+  "file1000682.h5",
+  "file1001003.h5",
+  "file1001051.h5",
+  "file1001491.h5",
+  "file1001654.h5",
+  "file1001866.h5",
+  "file1001982.h5",
+  "file1002107.h5",
+  "file1002495.h5",
+  "file1000089.h5",
+  "file1000109.h5",
+  "file1000300.h5",
+  "file1000383.h5",
+  "file1000495.h5",
+  "file1000584.h5",
+  "file1000685.h5",
+  "file1000755.h5",
+  "file1000801.h5",
+  "file1000806.h5",
+  "file1000875.h5",
+  "file1001200.h5",
+  "file1001520.h5",
+  "file1002146.h5",
+  "file1002234.h5",
+  "file1002239.h5",
+  "file1002264.h5",
+  "file1002269.h5"
+ ],
+ "test": [
+  "file_brain_AXFLAIR_202_6000531.h5",
+  "file_brain_AXT1_201_6002779.h5",
+  "file_brain_AXT1POST_200_6002392.h5",
+  "file_brain_AXT1POST_203_6000657.h5",
+  "file_brain_AXT1POST_207_2070034.h5",
+  "file_brain_AXT1POST_208_2080576.h5",
+  "file_brain_AXT2_200_6002012.h5",
+  "file_brain_AXT2_200_6002465.h5",
+  "file_brain_AXT2_200_6002601.h5",
+  "file_brain_AXT2_201_2010323.h5",
+  "file_brain_AXT2_201_2010590.h5",
+  "file_brain_AXT2_205_2050244.h5",
+  "file_brain_AXT2_209_2090077.h5",
+  "file_brain_AXT2_210_6001515.h5",
+  "file_brain_AXT2_210_6001546.h5",
+  "file1000963.h5",
+  "file1001340.h5",
+  "file1001741.h5",
+  "file1001948.h5",
+  "file1002098.h5",
+  "file1002169.h5",
+  "file1002371.h5",
+  "file1000117.h5",
+  "file1000716.h5",
+  "file1000896.h5",
+  "file1001205.h5",
+  "file1001266.h5",
+  "file1001426.h5",
+  "file1002303.h5",
+  "file1002511.h5"
+ ]
+}

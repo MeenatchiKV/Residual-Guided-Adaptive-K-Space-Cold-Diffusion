@@ -1,0 +1,31 @@
+# --- fastMRI data (not redistributable; download from https://fastmri.med.nyu.edu/) ---
+downloads/
+dataset-singlecoil/
+cache/*
+!cache/fastmri_mc_vc_split.json
+
+# --- images derived from fastMRI data ---
+*.npz
+results/main/recon/
+
+# --- model checkpoints (too large for GitHub; publish via a GitHub Release) ---
+*.pt
+*.pth
+
+# --- manuscript drafts ---
+paper/
+
+# --- logs, scratch and outdated files ---
+*.log
+results/smoke/
+results/main/FINDINGS.md
+run_after_training.sh
+run_finish_eval.sh
+results/run/
+
+# --- Python / editor ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
